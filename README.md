@@ -91,5 +91,6 @@ WORKDIR /app/yrgo
 CMD exec /bin/sh -c 'trap : TERM INT; (x=1; while true; do echo "Welcome to container. Loop: $x"; echo "Welcome to container. Loop: $x" > logfile.log; sleep 5; x=$(( $x + 1 )); done) & wait'
 
 ```
-docker build -t vieux/apache:2.0 . # Build docker image from dockerfile
+docker build -t kalleanka/loop . # Build docker image from dockerfile - Example 1
+docker build -t vieux/apache:2.0 . # Build docker image from dockerfile - Example 2
 ```
