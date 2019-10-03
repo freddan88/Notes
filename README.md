@@ -9,7 +9,7 @@ apt update && apt upgrade -y
 ```
 2.
 ```bash
-apt install apt-transport-https ca-certificates curl software-properties-common
+apt install apt-transport-https ca-certificates curl software-properties-common -y
 ```
 3.
 ```bash
@@ -28,7 +28,7 @@ ___
 ```
 6.
 ```bash
-- apt install docker-ce
+- apt install docker-ce -y
 - systemctl status docker
 ```
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
