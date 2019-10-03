@@ -69,6 +69,7 @@ docker network create net1 # Create a virtual docker network
 docker run -it -d --network net1 'IMAGE' /bin/bash
 
 ```
+CTRL + A + D on PC Detatches from container - without killing it!!!
 ---
 EXAMPLE DOCKERFILE:
 
