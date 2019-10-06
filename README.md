@@ -1,6 +1,15 @@
 # Notes
 Notes and commands
 
+## Add SSH Key to Linux server
+
+ssh-keygen -b 4096 -C "$(whoami)@$(hostname)-$(date -I)"
+
+ssh-copy-id fredrik@192.168.25.12
+
+Guide:
+https://wiki.archlinux.org/index.php/SSH_keys
+
 ## Install Docker Ubuntu 18.04 (Root)
 
 1.
@@ -103,3 +112,16 @@ initialize a docker swarm
 docker swarm init --advertise-addr <IP>
 ```
 
+```
+Example deploy stack from yml-file:
+# docker stack deploy -c loop.yml loop
+# docker stack deploy -c visualizer.yml visualizer
+# docker stack deploy -c wordpress.yml wordpress
+
+List services:
+# docker service ls
+# docker stack services <name_of_stack>
+
+# docker service rm <ID> // Delete service
+# docker service scale <ID>=1
+# docker service scale <ID>=2
