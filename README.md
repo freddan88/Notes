@@ -69,7 +69,7 @@ docker network create net1 # Create a virtual docker network
 docker run -it -d --network net1 'IMAGE' /bin/bash
 
 ```
-CTRL + A + D on PC Detatches from container - without killing it!!!
+### CTRL + A + D on PC Detatches from container - without killing it!!!
 ---
 EXAMPLE DOCKERFILE:
 
@@ -95,3 +95,11 @@ CMD exec /bin/sh -c 'trap : TERM INT; (x=1; while true; do echo "Welcome to cont
 docker build -t kalleanka/loop . # Build docker image from dockerfile - Example 1
 docker build -t vieux/apache:2.0 . # Build docker image from dockerfile - Example 2
 ```
+
+## Docker Swarm and Stack
+
+initialize a docker swarm
+```
+docker swarm init --advertise-addr <IP>
+```
+
