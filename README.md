@@ -83,6 +83,12 @@ code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension OfHumanBondage.react-proptypes-intellisense
 code --install-extension lXSPandora.vscode-styled-components-snippets
 
+COMMON REACT SNIPPETS:
+rcc // class component
+rccp // class component + propTypes
+rsc // stateless component (function)
+rscp // stateless component + propTypes
+
 INFO:
 https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets
 
