@@ -1,6 +1,9 @@
 # Notes
 Notes and commands
 
+### NPM DOC
+https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file
+
 ### Add SSH Key to Linux server
 
 > ssh-keygen -b 4096 -C "$(whoami)@$(hostname)-$(date -I)"<br/>
@@ -34,6 +37,12 @@ add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bi
 - systemctl status docker
 ```
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+
+### Linux Configure Git Example
+
+- git config --global user.email "you@example.com"
+- git config --global user.name "Your Name"
+- git config --global credential.helper store
 
 ### VScode extensions:
 ```
