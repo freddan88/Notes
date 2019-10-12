@@ -10,6 +10,14 @@ ssh-copy-id fredrik@192.168.25.12
 Guide:
 https://wiki.archlinux.org/index.php/SSH_keys
 
+Example SCP to home dir:
+```
+scp file.txt <remote_user>@<remote_ip>:
+```
+
+Guide:
+http://www.hypexr.org/linux_scp_help.php
+
 ## Install Docker Ubuntu 18.04 (Root)
 
 1.
