@@ -50,6 +50,37 @@ ___
 ```
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
+## VScode extensions:
+
+#### Common
+code --install-extension akamud.vscode-theme-onedark
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension vincaslt.highlight-matching-tag
+code --install-extension viablelab.bracket-padder
+
+#### React, Javascript
+code --install-extensionxabikos.ReactSnippets
+
+###### Info:
+https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets
+
+#### BASH
+code --install-extension Remisa.shellman
+code --install-extension rogalmic.bash-debug
+
+#### PHP
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension neilbrayfield.php-docblocker
+code --install-extension felixfbecker.php-debug
+
+###### Links:
+https://reactjs.org/
+https://reactjs.org/docs/typechecking-with-proptypes.html
+
 ## Commands for Docker-CLI
 
 ```
