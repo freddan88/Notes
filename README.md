@@ -120,7 +120,7 @@ code --install-extension ryannaddy.laravel-artisan
 code --install-extension onecentlin.laravel-blade
 
 NPM:
-code --install-extension  christian-kohler.npm-intellisense
+code --install-extension christian-kohler.npm-intellisense
 
 MORE
 code --help
