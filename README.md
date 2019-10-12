@@ -50,12 +50,10 @@ code --install-extension donjayamanne.githistory
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension esbenp.prettier-vscode
 code --install-extension be5invis.vscode-custom-css
-code --install-extension ditorConfig.EditorConfig
+code --install-extension editorConfig.EditorConfig
 code --install-extension file-icons.file-icons
 code --install-extension ecmel.vscode-html-css
 code --install-extension foxundermoon.shell-format
-code --install-extension mrmlnc.vscode-apache
-code --install-extension brapifra.phpserver
 code --install-extension bierner.color-info
 code --install-extension mikestead.dotenv
 code --install-extension sleistner.vscode-fileutils
@@ -63,12 +61,14 @@ code --install-extension techer.open-in-browser
 code --install-extension pranaygp.vscode-css-peek
 
 EXTRA:
+code --install-extension mrmlnc.vscode-apache
 code --install-extension eiminsasete.apacheconf-snippets
 code --install-extension ms-vscode.atom-keybindings
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension naumovs.color-highlight
 code --install-extension lihui.vs-color-picker
 code --install-extension mrmlnc.vscode-scss
+code --install-extension brapifra.phpserver
 code --install-extension msjsdiag.vscode-react-native
 code --install-extension wix.vscode-import-cost
 code --install-extension octref.vetur
