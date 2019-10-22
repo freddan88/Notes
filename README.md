@@ -126,6 +126,10 @@ code --install-extension austenc.laravel-blade-spacer
 code --install-extension ryannaddy.laravel-artisan
 code --install-extension onecentlin.laravel-blade
 
+WORDPRESS:
+code --install-extension wordpresstoolbox.wordpress-toolbox
+code --install-extension jpagano.wordpress-vscode-extensionpack
+
 NPM:
 code --install-extension christian-kohler.npm-intellisense
 
