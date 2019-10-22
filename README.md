@@ -66,12 +66,12 @@ code --install-extension foxundermoon.shell-format
 code --install-extension bierner.color-info
 code --install-extension mikestead.dotenv
 code --install-extension sleistner.vscode-fileutils
-code --install-extension robinbentley.sass-indented
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension techer.open-in-browser
-code --install-extension eamodio.gitlens
+code --install-extension syler.sass-indented
 
 EXTRA:
+code --install-extension eamodio.gitlens
 code --install-extension mrmlnc.vscode-apache
 code --install-extension eiminsasete.apacheconf-snippets
 code --install-extension ms-vscode.atom-keybindings
