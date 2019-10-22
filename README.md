@@ -66,8 +66,10 @@ code --install-extension foxundermoon.shell-format
 code --install-extension bierner.color-info
 code --install-extension mikestead.dotenv
 code --install-extension sleistner.vscode-fileutils
-code --install-extension techer.open-in-browser
+code --install-extension robinbentley.sass-indented
 code --install-extension pranaygp.vscode-css-peek
+code --install-extension techer.open-in-browser
+code --install-extension eamodio.gitlens
 
 EXTRA:
 code --install-extension mrmlnc.vscode-apache
@@ -79,7 +81,9 @@ code --install-extension lihui.vs-color-picker
 code --install-extension mrmlnc.vscode-scss
 code --install-extension brapifra.phpserver
 code --install-extension msjsdiag.vscode-react-native
-code --install-extension wix.vscode-import-cost
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension vsciot-vscode.vscode-arduino
+code --install-extension acidic9.p5js-snippets
 code --install-extension octref.vetur
 
 JAVASCRIPT:
@@ -88,6 +92,7 @@ code --install-extension xabikos.JavaScriptSnippets
 
 REACT:
 code --install-extension xabikos.ReactSnippets
+code --install-extension wix.vscode-import-cost
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension OfHumanBondage.react-proptypes-intellisense
 code --install-extension lXSPandora.vscode-styled-components-snippets
@@ -109,8 +114,10 @@ BATCH - Windows
 code --install-extension bat-snippets.bat-snippets
 
 PHP
+code --install-extension MehediDracula.php-namespace-resolver
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension neilbrayfield.php-docblocker
+code --install-extension onecentlin.phpunit-snippets
 code --install-extension felixfbecker.php-debug
 
 LARAVEL:
@@ -121,6 +128,9 @@ code --install-extension onecentlin.laravel-blade
 
 NPM:
 code --install-extension christian-kohler.npm-intellisense
+
+C/C++
+code --install-extension ms-vscode.cpptools
 
 MORE
 code --help
