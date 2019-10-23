@@ -89,6 +89,7 @@ code --install-extension octref.vetur
 
 JAVASCRIPT:
 code --install-extension sourcegraph.javascript-typescript
+code --install-extension ms-vscode.vscode-typescript-next
 code --install-extension xabikos.JavaScriptSnippets
 
 REACT:
