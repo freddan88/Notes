@@ -83,6 +83,7 @@ code --install-extension brapifra.phpserver
 code --install-extension msjsdiag.vscode-react-native
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension vsciot-vscode.vscode-arduino
+code --install-extension jpagano.wordpress-vscode-extensionpack
 code --install-extension acidic9.p5js-snippets
 code --install-extension octref.vetur
 
