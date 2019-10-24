@@ -69,9 +69,9 @@ code --install-extension sleistner.vscode-fileutils
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension techer.open-in-browser
 code --install-extension syler.sass-indented
+code --install-extension eamodio.gitlens
 
 EXTRA:
-code --install-extension eamodio.gitlens
 code --install-extension mrmlnc.vscode-apache
 code --install-extension eiminsasete.apacheconf-snippets
 code --install-extension ms-vscode.atom-keybindings
