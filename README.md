@@ -87,6 +87,17 @@ code --install-extension jpagano.wordpress-vscode-extensionpack
 code --install-extension acidic9.p5js-snippets
 code --install-extension octref.vetur
 
+INTERNSHIP:
+code --install-extension bierner.emojisense
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension esbenp.prettier-vscode
+code --install-extension mikestead.dotenv
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-python.python
+code --install-extension Shan.code-settings-sync
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension wayou.vscode-todo-highlight
+
 JAVASCRIPT:
 code --install-extension sourcegraph.javascript-typescript
 code --install-extension ms-vscode.vscode-typescript-next
