@@ -67,6 +67,9 @@ code --install-extension sleistner.vscode-fileutils
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension syler.sass-indented
 
+SYNC:
+code --install-extension Shan.code-settings-sync
+
 EXTRA:
 code --install-extension mrmlnc.vscode-apache
 code --install-extension eiminsasete.apacheconf-snippets
@@ -94,7 +97,6 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
-code --install-extension Shan.code-settings-sync
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension wayou.vscode-todo-highlight
 
