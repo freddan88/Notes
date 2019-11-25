@@ -55,8 +55,6 @@ code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension viablelab.bracket-padder
-code --install-extension donjayamanne.githistory
-code --install-extension dbaeumer.vscode-eslint
 code --install-extension esbenp.prettier-vscode
 code --install-extension be5invis.vscode-custom-css
 code --install-extension editorConfig.EditorConfig
@@ -67,9 +65,7 @@ code --install-extension bierner.color-info
 code --install-extension mikestead.dotenv
 code --install-extension sleistner.vscode-fileutils
 code --install-extension pranaygp.vscode-css-peek
-code --install-extension techer.open-in-browser
 code --install-extension syler.sass-indented
-code --install-extension eamodio.gitlens
 
 EXTRA:
 code --install-extension mrmlnc.vscode-apache
@@ -84,7 +80,11 @@ code --install-extension msjsdiag.vscode-react-native
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension vsciot-vscode.vscode-arduino
 code --install-extension jpagano.wordpress-vscode-extensionpack
+code --install-extension techer.open-in-browser
+code --install-extension donjayamanne.githistory
+code --install-extension dbaeumer.vscode-eslint
 code --install-extension acidic9.p5js-snippets
+code --install-extension eamodio.gitlens
 code --install-extension octref.vetur
 
 INTERNSHIP:
