@@ -19,6 +19,7 @@ code --install-extension bierner.color-info
 code --install-extension mikestead.dotenv
 code --install-extension sleistner.vscode-fileutils
 code --install-extension pranaygp.vscode-css-peek
+code --install-extension esbenp.prettier-vscode
 code --install-extension syler.sass-indented
 
 SYNC:
