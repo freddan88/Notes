@@ -1,7 +1,7 @@
-# Notes
+## Notes
 Notes and commands - License: MIT
 
-## Google chrome browser extensions
+### Google chrome browser extensions
 
 - MozBar - SEO <br/>
 (https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)
