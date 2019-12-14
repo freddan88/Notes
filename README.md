@@ -26,8 +26,8 @@ NPM DOC
 REACT
 - https://reactjs.org
 - https://viatsko.github.io/awesome-vscode
-- https://reactjs.org/docs/typechecking-with-proptypes.html
-- // User-defined snippets: //
+- https://reactjs.org/docs/typechecking-with-proptypes.html <br/>
+// User-defined snippets: //
 - https://snippet-generator.app
 - https://www.youtube.com/watch?v=JIqk9UxgKEc
 - https://code.visualstudio.com/docs/editor/userdefinedsnippets
