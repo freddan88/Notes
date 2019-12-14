@@ -153,3 +153,10 @@ List services:
 # docker service scale <ID>=1
 # docker service scale <ID>=2
 ```
+
+### Docker Compose Example
+
+> docker-compose -f main.yml up --build
+
+- Example Cyml-file: <br/>
+https://docs.docker.com/compose/compose-file/
