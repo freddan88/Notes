@@ -5,6 +5,8 @@ Notes and commands - License: MIT
 
 - MozBar - SEO <br/>
 (https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)
+- Lighthouse <br/>
+(https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 - ColorZilla <br/>
 (https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - Font Finder <br/>
