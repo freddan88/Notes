@@ -3,19 +3,19 @@ Notes and commands - License: MIT
 
 ## Google chrome browser extensions
 
-- MozBar - SEO 
+- MozBar - SEO <br/>
 (https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)
-- ColorZilla 
+- ColorZilla <br/>
 (https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
-- Font Finder 
+- Font Finder <br/>
 (https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha)
-- var_masterpiece 
+- var_masterpiece <br/>
 (https://chrome.google.com/webstore/detail/varmasterpiece/chfhddogiigmfpkcmgfpolalagdcamkl)
-- JSON Viewer Awesome 
+- JSON Viewer Awesome <br/>
 (https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
-- React Developer Tools 
+- React Developer Tools <br/>
 (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- Redux DevTools 
+- Redux DevTools <br/>
 (https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 NPM DOC
