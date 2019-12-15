@@ -42,6 +42,7 @@ code --install-extension techer.open-in-browser
 code --install-extension donjayamanne.githistory
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension acidic9.p5js-snippets
+code --install-extension ritwickdey.LiveServer
 code --install-extension eamodio.gitlens
 code --install-extension octref.vetur
 
