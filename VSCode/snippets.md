@@ -106,7 +106,7 @@ const Example = (props) => {
 
 export default Example;
 ```
-### Snippet (flrfce)
+### Snippet (flrfce) ${TM_DIRECTORY/^.+\\\\(.*)$/$1/} = Parent directory
 ```
 	"Simple react-component": {
 		"prefix": "flrfce",
