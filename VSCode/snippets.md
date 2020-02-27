@@ -124,3 +124,4 @@ export default Example;
 		],
 		"description": "Simple react-component"
 	}
+```
