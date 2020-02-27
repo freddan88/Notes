@@ -107,6 +107,7 @@ const Example = (props) => {
 export default Example;
 ```
 ### Snippet (flrfce)
+```
 	"Simple react-component": {
 		"prefix": "flrfce",
 		"body": [
