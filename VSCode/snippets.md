@@ -106,3 +106,21 @@ const Example = (props) => {
 
 export default Example;
 ```
+### Snippet (flrfce)
+	"Simple react-component": {
+		"prefix": "flrfce",
+		"body": [
+			"import React from \"react\";",
+			"",
+			"const ${TM_DIRECTORY/^.+\\\\(.*)$/$1/} = () => {",
+			"  return (",
+			"    <div>",
+			"      <h1>${TM_DIRECTORY/^.+\\\\(.*)$/$1/}</h1>",
+			"    </div>",
+			"  );",
+			"};",
+			"",
+			"export default ${TM_DIRECTORY/^.+\\\\(.*)$/$1/};"
+		],
+		"description": "Simple react-component"
+	}
