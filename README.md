@@ -158,5 +158,5 @@ List services:
 
 > docker-compose -f main.yml up --build
 
-- Example Cyml-file: <br/>
+- Example compose file version 3: <br/>
 https://docs.docker.com/compose/compose-file
