@@ -56,6 +56,10 @@ code --install-extension ms-python.python
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension wayou.vscode-todo-highlight
 
+TYPES AND TYPESCRIPT:
+code --install-extension quicktype.quicktype
+code --install-extension MariusAlchimavicius.json-to-ts
+
 JAVASCRIPT:
 code --install-extension sourcegraph.javascript-typescript
 code --install-extension ms-vscode.vscode-typescript-next
