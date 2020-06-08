@@ -69,6 +69,7 @@ apt update
 apt-cache policy docker-ce
 # apt install docker-ce -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y
+sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 systemctl status docker
 ```
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
