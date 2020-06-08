@@ -67,7 +67,8 @@ add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bi
 ```bash
 apt update
 apt-cache policy docker-ce
-apt install docker-ce -y
+# apt install docker-ce -y
+sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 systemctl status docker
 ```
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
