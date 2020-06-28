@@ -56,11 +56,13 @@ http://www.hypexr.org/linux_scp_help.php
 
 ### Install Docker Ubuntu 18.04 (Root)
 ```bash
-apt update && apt upgrade -y
-apt install apt-transport-https ca-certificates curl software-properties-common -y
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
-add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+apt update && sudo apt upgrade -y
+sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
 ```
+Ubuntu 18 LTS / Linux Mint 19 = bionic
+Ubuntu 20 LTS / Linux Mint 20 = focal
 
 > Linux repository: https://download.docker.com/linux
 
@@ -71,6 +73,7 @@ apt-cache policy docker-ce
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod 755 /usr/local/bin/docker-compose
+sudo usermod -aG docker $(whoami)
 systemctl status docker
 ```
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
