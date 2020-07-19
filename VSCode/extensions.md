@@ -21,6 +21,7 @@ code --install-extension sleistner.vscode-fileutils
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension esbenp.prettier-vscode
 code --install-extension syler.sass-indented
+code --install-extension vtrois.gitmoji-vscode
 
 SYNC:
 code --install-extension Shan.code-settings-sync
