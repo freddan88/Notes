@@ -1,6 +1,44 @@
 ### VScode extensions:
 
 ```
+2023-07-11 (JS & TS - REACT - PHP - Laravel)
+amiralizadeh9480.laravel-extra-intellisense
+bradlc.vscode-tailwindcss
+dbaeumer.vscode-eslint
+DEVSENSE.composer-php-vscode
+DEVSENSE.phptools-vscode
+DEVSENSE.profiler-php-vscode
+donjayamanne.githistory
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+foxundermoon.shell-format
+mads-hartmann.bash-ide-vscode
+mikestead.dotenv
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
+ms-vscode.vscode-typescript-next
+ms-vsliveshare.vsliveshare
+neilbrayfield.php-docblocker
+OfHumanBondage.react-proptypes-intellisense
+onecentlin.laravel5-snippets
+pgl.laravel-jump-controller
+Remisa.shellman
+ritwickdey.LiveServer
+rogalmic.bash-debug
+rpinski.shebang-snippets
+sleistner.vscode-fileutils
+streetsidesoftware.code-spell-checker
+timonwong.shellcheck
+wayou.vscode-todo-highlight
+xabikos.JavaScriptSnippets
+yoavbls.pretty-ts-errors
+Yseop.vscode-yseopml
+```
+
+```
 2023-07-05 (JS & TS - REACT - PHP)
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension dbaeumer.vscode-eslint
