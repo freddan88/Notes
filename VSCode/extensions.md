@@ -4,6 +4,7 @@
 2023-07-11 (JS & TS - REACT - PHP - Laravel)
 code --install-extension amiralizadeh9480.laravel-extra-intellisense
 code --install-extension bradlc.vscode-tailwindcss
+code --install-extension naumovs.color-highlight
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension DEVSENSE.composer-php-vscode
 code --install-extension DEVSENSE.phptools-vscode
@@ -43,6 +44,7 @@ code --install-extension Yseop.vscode-yseopml
 ```
 2023-07-05 (JS & TS - REACT - PHP)
 code --install-extension bradlc.vscode-tailwindcss
+code --install-extension naumovs.color-highlight
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension DEVSENSE.composer-php-vscode
 code --install-extension DEVSENSE.phptools-vscode
