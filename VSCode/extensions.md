@@ -2,40 +2,42 @@
 
 ```
 2023-07-11 (JS & TS - REACT - PHP - Laravel)
-amiralizadeh9480.laravel-extra-intellisense
-bradlc.vscode-tailwindcss
-dbaeumer.vscode-eslint
-DEVSENSE.composer-php-vscode
-DEVSENSE.phptools-vscode
-DEVSENSE.profiler-php-vscode
-donjayamanne.githistory
-dsznajder.es7-react-js-snippets
-eamodio.gitlens
-EditorConfig.EditorConfig
-esbenp.prettier-vscode
-formulahendry.auto-rename-tag
-foxundermoon.shell-format
-mads-hartmann.bash-ide-vscode
-mikestead.dotenv
-ms-azuretools.vscode-docker
-ms-vscode-remote.remote-containers
-ms-vscode.vscode-typescript-next
-ms-vsliveshare.vsliveshare
-neilbrayfield.php-docblocker
-OfHumanBondage.react-proptypes-intellisense
-onecentlin.laravel5-snippets
-pgl.laravel-jump-controller
-Remisa.shellman
-ritwickdey.LiveServer
-rogalmic.bash-debug
-rpinski.shebang-snippets
-sleistner.vscode-fileutils
-streetsidesoftware.code-spell-checker
-timonwong.shellcheck
-wayou.vscode-todo-highlight
-xabikos.JavaScriptSnippets
-yoavbls.pretty-ts-errors
-Yseop.vscode-yseopml
+code --install-extension amiralizadeh9480.laravel-extra-intellisense
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension DEVSENSE.composer-php-vscode
+code --install-extension DEVSENSE.phptools-vscode
+code --install-extension DEVSENSE.profiler-php-vscode
+code --install-extension donjayamanne.githistory
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension snlbaral.express-mongo-snippets
+code --install-extension file-icons.file-icons
+code --install-extension eamodio.gitlens
+code --install-extension EditorConfig.EditorConfig
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension foxundermoon.shell-format
+code --install-extension mads-hartmann.bash-ide-vscode
+code --install-extension mikestead.dotenv
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode.vscode-typescript-next
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension neilbrayfield.php-docblocker
+code --install-extension OfHumanBondage.react-proptypes-intellisense
+code --install-extension onecentlin.laravel5-snippets
+code --install-extension pgl.laravel-jump-controller
+code --install-extension Remisa.shellman
+code --install-extension ritwickdey.LiveServer
+code --install-extension rogalmic.bash-debug
+code --install-extension rpinski.shebang-snippets
+code --install-extension sleistner.vscode-fileutils
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension timonwong.shellcheck
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension yoavbls.pretty-ts-errors
+code --install-extension Yseop.vscode-yseopml
 ```
 
 ```
@@ -46,6 +48,8 @@ code --install-extension DEVSENSE.composer-php-vscode
 code --install-extension DEVSENSE.phptools-vscode
 code --install-extension DEVSENSE.profiler-php-vscode
 code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension snlbaral.express-mongo-snippets
+code --install-extension file-icons.file-icons
 code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
