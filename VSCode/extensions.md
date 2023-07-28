@@ -60,6 +60,7 @@ code --install-extension foxundermoon.shell-format
 code --install-extension mads-hartmann.bash-ide-vscode
 code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode.vscode-typescript-next
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension neilbrayfield.php-docblocker
