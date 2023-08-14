@@ -2,6 +2,7 @@
 
 ```
 2023-07-11 (JS & TS - REACT - PHP - Laravel)
+code --install-extension christian-kohler.path-intellisense
 code --install-extension amiralizadeh9480.laravel-extra-intellisense
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension naumovs.color-highlight
@@ -43,6 +44,7 @@ code --install-extension Yseop.vscode-yseopml
 
 ```
 2023-07-05 (JS & TS - REACT - PHP)
+code --install-extension christian-kohler.path-intellisense
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension naumovs.color-highlight
 code --install-extension dbaeumer.vscode-eslint
@@ -77,6 +79,7 @@ code --install-extension xabikos.JavaScriptSnippets
 
 ```
 2023-07-05 (JS & TS - REACT - PHP - LARAVEL)
+code --install-extension christian-kohler.path-intellisense
 code --install-extension amiralizadeh9480.laravel-extra-intellisense
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension dbaeumer.vscode-eslint
